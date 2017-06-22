@@ -1,0 +1,28 @@
+section {
+  display: grid;
+}
+
+.entraineur {
+  text-align: center;
+  grid-row-start: 1;
+}
+
+.gardiens {
+  text-align: center;
+  grid-row-start: 2;
+}
+
+.defenseurs {
+  text-align: center;
+  grid-row-start: 3;
+}
+
+.milieux {
+  text-align: center;
+  grid-row-start: 4;
+}
+
+.attaquant {
+  text-align: center;
+  grid-row-start: 5;
+}
